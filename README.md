@@ -7,7 +7,7 @@ Incarnato lab in vitro SHAPE data: Manfredonia I., Nithin C., Ponce-Salvatierra 
 
 Pyle lab SHAPE data: Huston N.C., Wan H., Strine M.S., de Cesaris Araujo Tavares R., Wilen C.B., Pyle A.M. Comprehensive in vivo secondary structure of the SARS-CoV-2 genome reveals novel regulatory motifs and mechanisms. Mol. Cell. 2021; 81:584–598. https://github.com/pylelab/SARS-CoV-2_SHAPE_MaP_structure
 
-Zhang lab SHAPE data: Sun L., Li P., Ju X., Rao J., Huang W., Zhang S., Xiong T., Xu K., Zhou X., Ren L. et al. . In vivo structural characterization of the SARS-CoV-2 RNA genome identifies host proteins vulnerable to repurposed drugs. Cell. 2021; 184:1865-1883. https://github.com/lipan6461188/SARS-CoV-2
+Zhang lab SHAPE data: Sun L., Li P., Ju X., Rao J., Huang W., Zhang S., Xiong T., Xu K., Zhou X., Ren L. et al. . In vivo structural characterization of the SARS-CoV-2 RNA genome identifies host proteins vulnerable to repurposed drugs. Cell. 2021; 184:1865-1883. http://rasp.zhanglab.net/download/ 
 
 ## Structured region sources:
 
